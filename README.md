@@ -1,6 +1,6 @@
 # WASD Snap Tap
 
-A Windows Python GUI prototype for WASD last-input priority on the Logitech G515 TKL.
+A Windows Python GUI prototype for WASD last-input priority on any keyboard that doesn't have last input priority.
 
 ## What currently works
 
